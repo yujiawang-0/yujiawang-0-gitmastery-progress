@@ -9,6 +9,60 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "log-and-order",
+    "started_at": 1769078446.922635,
+    "completed_at": 1769078450.098846,
+    "comments": [
+      "Answer for What is the commit message of the commit 2f28da501fcf58b4b6282e80732e46ea752d38e2? is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769078513.369532,
+    "completed_at": 1769078516.479116,
+    "comments": [
+      "Answer for What is the commit message of the commit 2f28da501fcf58b4b6282e80732e46ea752d38e2? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769078583.683179,
+    "completed_at": 1769078586.781943,
+    "comments": [
+      "Answer for What is the commit message of the commit 2f28da501fcf58b4b6282e80732e46ea752d38e2? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769078622.243905,
+    "completed_at": 1769078625.401317,
+    "comments": [
+      "Answer for What is the commit message of the commit 2f28da501fcf58b4b6282e80732e46ea752d38e2? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769078646.856581,
+    "completed_at": 1769078649.95347,
+    "comments": [
+      "Answer for What is the commit message of the commit 2f28da501fcf58b4b6282e80732e46ea752d38e2? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769078654.540745,
+    "completed_at": 1769078657.677724,
+    "comments": [
+      "Answer for What is the commit message of the commit 2f28da501fcf58b4b6282e80732e46ea752d38e2? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
     "exercise_name": "stage-fright",
     "started_at": 1766321910.146803,
     "completed_at": 1766321914.903966,
@@ -41,6 +95,15 @@
     "completed_at": 1766320371.01428,
     "comments": [
       "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1769077725.553764,
+    "completed_at": 1769077726.999906,
+    "comments": [
+      "You have successfully undone the init operation!"
     ],
     "status": "Completed"
   }
