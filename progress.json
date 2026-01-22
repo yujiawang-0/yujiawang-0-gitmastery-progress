@@ -151,5 +151,14 @@
       "Great work using .gitignore!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1769087411.112636,
+    "completed_at": 1769087425.25661,
+    "comments": [
+      "Your Github CLI is not setup correctly"
+    ],
+    "status": "Incomplete"
   }
 ]
