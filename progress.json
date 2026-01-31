@@ -347,5 +347,14 @@
       "Good job performing a merge squash!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1769852455.293294,
+    "completed_at": 1769852456.749075,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
   }
 ]
